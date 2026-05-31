@@ -16,3 +16,11 @@ Validación en ambiente de preproducción
 \## Error común que debe evitarse
 Que el aplicativo sea compatible con todos los dispositivos.
 
+
+
+> Advertencia: la validación no debe considerarse completa si solo se revisa el contenido
+
+del archivo. También debe comprobarse que el entorno local permite ejecutar el flujo
+
+documentado.
+
